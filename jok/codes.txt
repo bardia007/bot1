@@ -1,0 +1,42 @@
+﻿https://api.telegram.org/bot[TOKEN]/getMe
+https://api.telegram.org/bot[TOKEN]/getUpdates
+https://api.telegram.org/bot[TOKEN]/setWebhook
+https://api.telegram.org/bot[TOKEN]/setwebhook
+
+https://core.telegram.org/bots/api#available-methods
+
+/// توکن بات webmoomjok_bot
+193921867:AAEiVh0BND_Lw4-7SHXCy_OJ9eMRjJk5teI
+
+https://api.telegram.org/bot193921867:AAEiVh0BND_Lw4-7SHXCy_OJ9eMRjJk5teI/setwebhook?url=https://botnevis.com/joke/index.php
+
+
+
+// ربات جک گو
+// ربات جستجوگر خبر در سایت
+// ربات رهگیری خدمات
+// ربات زیر نویس فیلم
+// رابات فروشگاه محصولات فیزیکی و مجازی
+
+
+botnevis_jokego
+X{WW~sHI^mJM
+
+joke
+=======
+id
+joke
+
+
+-------------دیتابیس جوملا
+botnevis_joomla
+botnevis_joomla
+*lgT[oC~KtC(
+
+شناسه مجموعه جک 8
+شناسه مجموعه سخن 9
+
+-------------دیتابیس وردپرس
+botnevis_wp
+botnevis_wp
+3@c~=1}xdcKr
